@@ -14,5 +14,9 @@ source .venv/bin/activate
 ```
 
 ### python libraries
-make install
+`make install`
+
+
+### Run streamlit app
+`streamlit run app.py`
 
