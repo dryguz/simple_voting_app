@@ -5,3 +5,6 @@ pre_commit==3.0.4
 
 # most common libs
 pandas==1.5.3
+
+# project libs
+django==4.1.6

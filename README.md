@@ -1,6 +1,12 @@
 # deafualt repo setup
 
-This is a black repo so far.
+This is simple app based on [Django tutorial](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)
+
+Functionality goals:
+- it allows to give votes
+- it tracks votes of users
+    - user provides name
+    - providing name that exists in db allows to overwrite previous vote
 
 
 ### python env setup
