@@ -1,5 +1,6 @@
-# econbite
-streamlit app with basic economy data
+# deafualt repo setup
+
+This is a black repo so far.
 
 
 ### python env setup
@@ -17,6 +18,5 @@ source .venv/bin/activate
 `make install`
 
 
-### Run streamlit app
-`streamlit run app.py`
-
+### Run main
+`python main.py`
